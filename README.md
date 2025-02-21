@@ -7,7 +7,7 @@
 ## I have the dream to become also a Game Developer. 
 
   
-### >  About me
+### <font color="#000000"><span style="background:#fff88f">About me</span></font>
 > 
 > - 🔭 I’m currently working on ... My estudies and an APP to connect people for renting (houses) purposes.
 > 
