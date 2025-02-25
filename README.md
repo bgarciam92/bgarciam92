@@ -2,7 +2,7 @@
 
   
 
-## My name is Brayand Garcia and currently am starting my path as BackEnd developer.  
+## My name is Brayand Garcia and currently I am starting my path as a BackEnd developer.  
 
 ## I have the dream to become also a Game Developer. 
 
