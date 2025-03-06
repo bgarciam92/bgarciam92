@@ -25,6 +25,6 @@
 
 ### :zap: Recent Activity.
 
-<!--START_SECTION:-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
